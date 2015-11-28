@@ -8,3 +8,4 @@ rules:
   curly: 2
   quotes: [2, "single"]
   no-underscore-dangle: 0
+  no-undef: 2
